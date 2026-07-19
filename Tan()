@@ -1,0 +1,5 @@
+System.out.println(Math.tan(0.5));
+System.out.println(Math.tan(-0.5));
+System.out.println(Math.tan(1));
+System.out.println(Math.tan(-3));
+System.out.println(Math.tan(Math.PI/4));
