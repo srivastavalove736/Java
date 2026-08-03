@@ -1,1 +1,2 @@
 All java codes
+.js
